@@ -2,3 +2,4 @@ streamlit
 faiss-cpu
 numpy
 sentence-transformers
+together
